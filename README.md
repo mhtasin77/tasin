@@ -1,3 +1,3 @@
 # tasin
-This is my first repository 
-author - HM Tasin
+This is my first repository.
+Author - HM Tasin
